@@ -1,0 +1,6 @@
+{
+  "homepage": "https://ttpthao.github.io/demo-deploy-github-pages/",
+  "dependencies": {
+    "gh-pages": "^6.1.0"
+  }
+}
